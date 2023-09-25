@@ -58,7 +58,7 @@ services:
 
 ![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
 
-Esto es una  (espacio espacio enter)
+Esto es una  (espacio espacio enter)  
 Línea y sale todo junto.
 
 
